@@ -1,0 +1,1 @@
+This repository demonstrates a subtle Python bug related to exception handling. The `function_with_uncommon_error` function handles the case where `a` is 0, but not where both `a` and `b` are 0, leading to unexpected behavior.  The solution shows how to properly handle all scenarios.
